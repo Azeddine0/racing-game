@@ -1,0 +1,54 @@
+# ASCII Racing Game
+
+A high-speed racing game with ASCII graphics, featuring multiple car designs, competitive AI, and an immersive racing experience - all in your terminal!
+
+## Features
+
+- **8 Unique Car Designs**: Choose from sports cars, trucks, formula 1, vintage cars, motorcycles, SUVs, convertibles, and futuristic vehicles
+- **Large Racing Track**: Race on a wide 8-lane track with a scrolling viewport that follows your car
+- **Competitive AI**: Challenge up to 12 AI opponents with varying difficulty levels
+- **Practice Mode**: Get comfortable with the controls before the race begins
+- **Nitro Boost**: Use nitro for a temporary speed boost when you need it most
+- **Collision Detection**: Avoid crashing into other cars
+- **High Score System**: Track your best performances
+- **Multiple Difficulty Levels**: Easy, Medium, and Hard modes to match your skill level
+
+## Controls
+
+- **W**: Accelerate
+- **S**: Brake/Decelerate
+- **A**: Move left
+- **D**: Move right
+- **SPACE**: Activate nitro boost
+- **Q**: Quit game
+
+## Gameplay
+
+1. Select your difficulty level
+2. Enter your name
+3. Choose your car design
+4. Start in practice mode to get familiar with controls
+5. Race against AI cars to reach the finish line first
+6. Avoid collisions with other vehicles
+7. Use nitro strategically to gain advantage
+8. Try to beat your high score!
+
+## Technical Details
+
+- Written in C++ with standard libraries
+- Uses ASCII art for all graphics
+- Terminal-based UI with colored text
+- Implements game loop with frame-based timing
+- Collision detection system
+- Viewport scrolling to follow player movement
+- AI with randomized behavior patterns
+
+## Requirements
+
+- C++ compiler (supporting C++11 or later)
+- Terminal with support for ASCII characters
+- Minimum terminal size: 120x40 characters for optimal display
+
+## Installation
+
+1. Clone the repository:
