@@ -11,7 +11,6 @@
 
 using namespace std;
 
-// Original car designs
 const vector<vector<string>> CAR_DESIGNS = {
     // Sports car
     {
@@ -62,7 +61,7 @@ const vector<vector<string>> CAR_DESIGNS = {
         " )  _          _  \\",
         " |_/ \\________/ \\__|"
     },
-    // Futuristic car
+    // UFO
     {
         "     _-=-_     ",
         " _.-'_____`-._",
